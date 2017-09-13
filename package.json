@@ -1,0 +1,30 @@
+{
+  "name": "scroll-to-plugin",
+  "version": "0.0.0",
+  "description": "Example and sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyKorkoza/Scroll-to-plugin.git"
+  },
+  "keywords": [
+    "html",
+    "css3\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D5\u001b[C\u001b[D",
+    "\u001b[C\u001b[D",
+    "\u001b[C\u001b[Dcss3",
+    "jquery"
+  ],
+  "author": "AlexeyKorkoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexeyKorkoza/Scroll-to-plugin/issues"
+  },
+  "homepage": "https://github.com/AlexeyKorkoza/Scroll-to-plugin#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jquery.scrollto": "^2.1.2"
+  }
+}
